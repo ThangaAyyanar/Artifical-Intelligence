@@ -1,2 +1,10 @@
 # Artifical-Intelligence
-my exploration in AI and Machine Learning
+
+Inorder to learn machine learning we need to know about the following math topics
+
+* Matrix
+* Linear algebra
+* statistics & Probability
+* MultiVariable Calculus
+* Algorithm & Complexity
+
